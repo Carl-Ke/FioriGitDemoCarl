@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-					    <Button xmlns="sap.m" text="CarlGitTest3" id="button0"/>
+					    <Button xmlns="sap.m" text="CarlGitTest4" id="button0"/>
 					</content>
 				</Page>
 			</pages>
